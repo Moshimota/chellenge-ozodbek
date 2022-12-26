@@ -540,6 +540,12 @@ border: none;
 background: #3F69FF;
 border-radius: 2px;
 }
+.voy {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #000000;
+}
 .skotch{
     margin-left: 14%;
     
