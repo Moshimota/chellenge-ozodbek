@@ -651,8 +651,8 @@ color: #0A1539;
     .df-re{
         display: flex;
     }
-    .card-re{
-        margin-left: 15px;
+    .card-re {
+        margin-left: 5px;
         text-align: center;
         margin-top: 12px;
     }
